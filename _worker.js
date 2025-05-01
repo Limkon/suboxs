@@ -6,7 +6,7 @@ const CONFIG = {
   chatId: '', // Telegram Chat ID
   tgEnabled: 0, // Telegram 通知开关：1 开启，0 关闭
   fileName: 'CF-Workers-SUB', // 订阅文件名
-  subUpdateTime: 6, // 订阅更新时间（小时）
+  subUpdateTime: 12, // 订阅更新时间（小时）
   totalData: 99, // 数据总量（TB）
   expireTimestamp: 4102329600000, // 过期时间（2099-12-31）
   maxUrls: 10, // 最大外部 URL 数量
